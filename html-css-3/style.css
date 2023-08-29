@@ -1,0 +1,28 @@
+h1 {
+  color: white;
+  background-color: blue;
+}
+p {
+  color: blue;
+}
+span {
+  color: red;
+}
+h2 {
+  color: purple;
+}
+h3 {
+  color: rgb(12, 173, 12);
+}
+a {
+  color: red;
+}
+button {
+  background-color: yellow;
+}
+ul {
+  background-color: lightgray;
+}
+button {
+  margin-inline: 5px;
+}
